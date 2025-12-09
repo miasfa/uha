@@ -1,0 +1,5 @@
+{
+  "name": "Hatzalah Field Guide",
+  "description": "A responsive web app for United Hatzalah EMTs and paramedics, providing quick access to drug dosage calculators, treatment protocols, and procedure guides. Optimized for mobile use and offline access.",
+  "requestFramePermissions": []
+}
